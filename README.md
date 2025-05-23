@@ -1,4 +1,4 @@
 # .github
 starter workflow
 
-test blubracket
+test blubracket via PR
